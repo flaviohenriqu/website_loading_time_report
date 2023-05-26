@@ -1,0 +1,36 @@
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dependency directories
+venv/
+env/
+.venv/
+env.bak/
+dist/
+build/
+*.egg-info/
+.idea/
+
+# Logs and temporary files
+*.log
+*.swp
+*.swo
+*.tmp
+
+# Environment variables
+.env
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.pyd
+*.o
+*.obj
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
